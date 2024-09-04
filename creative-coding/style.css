@@ -1,0 +1,10 @@
+body{
+    background-color: darkolivegreen;
+}
+p{
+    font-family: fantasy
+    font-size: 2em;
+}
+a:visited{
+    color:blueviolet;
+}
