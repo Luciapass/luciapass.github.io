@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+<html> 
+    <head>
+        <title>
+            Lucia Portfolio Webpage
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <p>
+            Hello, my name is Lucia Passarelli. Welcome to my coding portfolio! As I start my coding journey, this site will show my beginning projects and experiments. I have always loved art, specifically to paint, and I hope to make my coding reflect my love of art and creativity. 
+        </p>
+        <a href="https://www.instagram.com/luciapassart/">My Art</a>
+        <img id=”Painting” src=”https://imgur.com/a/Dxdj08I” alt=”my latest painting”>
+    </body>
+</html>
