@@ -1,10 +1,17 @@
 body{
-    background-color: darkolivegreen;
+    Background-color: rgb(239, 237, 221);
+	color: rgb(8, 58, 91);
 }
 p{
-    font-family: fantasy;
-    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4em;
 }
 a:visited{
-    color:blueviolet;
+    color:rgb(213, 98, 16);
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
